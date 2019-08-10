@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 /* Ed Ali -
-Created OfficeAssignment entity */
+Created Instructor Model which includes data annotations  such as display names, string length and required */
 namespace ContosoUniversity.Models
 {
     public class Instructor
